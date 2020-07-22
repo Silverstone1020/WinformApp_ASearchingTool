@@ -1,0 +1,10 @@
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\bin\Debug\WindowsFormsAppPractice11.exe.config
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\bin\Debug\WindowsFormsAppPractice11.exe
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\bin\Debug\WindowsFormsAppPractice11.pdb
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.Form1.resources
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.Properties.Resources.resources
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.csproj.GenerateResource.cache
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.csproj.CoreCompileInputs.cache
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.exe
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.pdb
+E:\C#\CourseraPractices\WindowsFormsAppPractice11\WindowsFormsAppPractice11\obj\Debug\WindowsFormsAppPractice11.csprojAssemblyReference.cache
